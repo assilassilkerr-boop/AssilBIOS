@@ -1,0 +1,13 @@
+# Clear and simple configuration for AssilBIOS
+megs: 32
+
+# On some Bochs versions, address must NOT be used for custom binaries
+romimage: file=bios.bin
+
+# Force standard VGA without external extension images
+vga: extension=none
+
+# Log the serial output cleanly to a file
+com1: enabled=1, mode=file, dev=serial_output.txt
+
+boot: floppy

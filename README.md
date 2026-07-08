@@ -1,6 +1,6 @@
 # AssilBIOS
 
-AssilBIOS is a custom, clean-room developed x86 BIOS project designed for learning systems programming and low-level hardware initialization.
+AssilBIOS is a custom, Algeria's first clean-room developed x86 Legacy BIOS project designed for learning systems programming and low-level hardware initialization without using CoreBoot/SeaBIOS or proprietary .
 
 ## ⚠️ CRITICAL DISCLAIMER - READ BEFORE USE
 **THIS SOFTWARE IS EXPERIMENTAL FIRMWARE.** - **NO WARRANTY:** This project is provided "as is." Using this code on bare-metal hardware (actual motherboards) carries a risk of "bricking" your motherboard if flashed to an SPI flash chip.

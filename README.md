@@ -1,6 +1,16 @@
 # AssilBIOS
 
-AssilBIOS is a custom, Algeria's first clean-room developed x86 Legacy BIOS project designed for learning systems programming and low-level hardware initialization without using CoreBoot/SeaBIOS or proprietary BIOS codes (Pheonix, insydeH2O, AMI).
+AssilBIOS is a custom, Algeria's first clean-room developed x86 Legacy BIOS project designed for learning systems programming and low-level hardware initialization without using CoreBoot/SeaBIOS or proprietary BIOS codes (Pheonix, insydeH2O, AMI)
+
+## License
+
+AssilBIOS is released under the **AssilOS Public License (APL) v1.0**, a permissive
+open-source license with attribution and branding protection.
+
+- [Full license text](LICENSE)
+
+This license allows you to use, modify, and distribute the code freely, provided
+you retain the copyright notice and do not use the "AssilOS" name without permission.
 
 ## ⚠️ CRITICAL DISCLAIMER - READ BEFORE USE
 **THIS SOFTWARE IS EXPERIMENTAL FIRMWARE.** - **NO WARRANTY:** This project is provided "as is." Using this code on bare-metal hardware (actual motherboards) carries a risk of "bricking" your motherboard if flashed to an SPI flash chip.

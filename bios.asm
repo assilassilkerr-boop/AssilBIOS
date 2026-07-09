@@ -2,7 +2,7 @@
 ; Copyright (c) 2026, Assil Kerr
 ; All rights reserved.
 ;
-; Licensed under the BSD 2-Clause License.
+; Licensed under the APL License.
 
 BITS 16
 

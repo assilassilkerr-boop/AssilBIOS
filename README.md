@@ -1,4 +1,4 @@
-# AssilBIOS
+# AssilBIOS (Codenamed El Kantara)
 
 AssilBIOS is a custom, Algeria's first clean-room developed x86 Legacy BIOS project designed for learning systems programming and low-level hardware initialization without using CoreBoot/SeaBIOS or proprietary BIOS codes (Pheonix, insydeH2O, AMI)
 
